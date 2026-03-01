@@ -1,5 +1,8 @@
 # 📊 Sales Data Analysis Dashboard
 
+## 🔗 Live Demo
+https://sales-data-dashboard-bpx8cmb2aitmqmqvzkbygo.streamlit.app
+
 ## 🔍 Project Overview
 An interactive sales dashboard built using Streamlit to analyze retail performance and generate business insights.
 
@@ -20,4 +23,5 @@ An interactive sales dashboard built using Streamlit to analyze retail performan
 - Streamlit
 
 ## 🎯 Business Value
+
 Helps businesses identify profitable products and loss areas for better decision-making.
